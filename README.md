@@ -23,7 +23,7 @@ differences between this implementation and the blog post:
 * Deploy Argo instance using custom image to my-app namespace
 * Deploy test application to Argo instance
 * During application deployment, Argo with call the argocd-vault-plugin to
-  replace the template value in secret with the actual secret vaule
+  replace the template value in secret with the actual secret value
 * 🍻
 
 ## Create OpenShift GitOps (Argo CD) image with argocd-vault-plugin embedded
