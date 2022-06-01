@@ -19,6 +19,7 @@ differences between this implementation and the blog post:
 * Configure Vault for Kubernetes authentication
 * Create custom Argo image with argocd-vault-plugin embedded
 * Push custom Argo image to registry
+* Install Vault Config Operator
 * Install OpenShift GitOps Operator
 * Deploy Argo instance using custom image to my-app namespace
 * Deploy test application to Argo instance
